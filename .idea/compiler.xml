@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="5-2-1-crazy-streams" />
+        <module name="1-3-0-hello-generics" />
+        <module name="5-3-1-crazy-optionals" />
+        <module name="5-4-1-fun-prime-numbers" />
+        <module name="1-3-2-heterogeneous-max-holder" />
+        <module name="5-0-1-lambda-functions-map" />
+        <module name="1-3-1-crazy-generics" />
+        <module name="5-0-2-stream-sum-of-squares" />
+        <module name="5-1-1-crazy-lambdas" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="0-0-intro" target="17" />
+      <module name="1-5-0-hello-annotations" target="17" />
+      <module name="2-0-data-structures-and-algorithms" target="17" />
+      <module name="2-2-1-node" target="17" />
+      <module name="2-2-2-stack" target="17" />
+      <module name="2-2-3-linked-queue" target="17" />
+      <module name="2-2-4-linked-list" target="17" />
+      <module name="2-2-5-array-list" target="17" />
+      <module name="2-2-6-binary-search-tree" target="17" />
+      <module name="2-2-9-hash-table" target="17" />
+      <module name="3-0-java-core" target="17" />
+      <module name="3-6-1-file-reader" target="17" />
+      <module name="3-6-2-file-stats" target="17" />
+      <module name="3-6-3-crazy-regex" target="17" />
+      <module name="3-6-4-random-field-comparator" target="17" />
+      <module name="4-0-object-oriented-programming" target="17" />
+      <module name="4-3-1-flight-search" target="17" />
+      <module name="6-0-test-driven-development" target="17" />
+      <module name="6-1-1-stack" target="17" />
+      <module name="6-1-2-linked-list" target="17" />
+      <module name="6-1-3-binary-search-tree" target="17" />
+      <module name="data-structures-and-algorithms-util" target="17" />
+      <module name="java-fundamentals-util" target="17" />
+      <module name="lesson-demo" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="0-0-intro" options="-parameters" />
+      <module name="1-3-0-hello-generics" options="-parameters" />
+      <module name="1-3-1-crazy-generics" options="-parameters" />
+      <module name="1-3-2-heterogeneous-max-holder" options="-parameters" />
+      <module name="1-5-0-hello-annotations" options="-parameters" />
+      <module name="2-2-1-node" options="-parameters" />
+      <module name="2-2-2-stack" options="-parameters" />
+      <module name="2-2-3-linked-queue" options="-parameters" />
+      <module name="2-2-4-linked-list" options="-parameters" />
+      <module name="2-2-5-array-list" options="-parameters" />
+      <module name="2-2-6-binary-search-tree" options="-parameters" />
+      <module name="2-2-9-hash-table" options="-parameters" />
+      <module name="3-6-1-file-reader" options="-parameters" />
+      <module name="3-6-2-file-stats" options="-parameters" />
+      <module name="3-6-3-crazy-regex" options="-parameters" />
+      <module name="3-6-4-random-field-comparator" options="-parameters" />
+      <module name="4-3-1-flight-search" options="-parameters" />
+      <module name="5-0-1-lambda-functions-map" options="-parameters" />
+      <module name="5-0-2-stream-sum-of-squares" options="-parameters" />
+      <module name="5-1-1-crazy-lambdas" options="-parameters" />
+      <module name="5-2-1-crazy-streams" options="-parameters" />
+      <module name="5-3-1-crazy-optionals" options="-parameters" />
+      <module name="5-4-1-fun-prime-numbers" options="-parameters" />
+      <module name="6-1-1-stack" options="-parameters" />
+      <module name="6-1-2-linked-list" options="-parameters" />
+      <module name="6-1-3-binary-search-tree" options="-parameters" />
+      <module name="data-structures-and-algorithms-util" options="-parameters" />
+      <module name="java-fundamentals-util" options="-parameters" />
+      <module name="lesson-demo" options="-parameters" />
+    </option>
+  </component>
+</project>
